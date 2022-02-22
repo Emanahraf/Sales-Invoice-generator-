@@ -1,0 +1,18 @@
+gradleproject2/InvoicItem.java
+ gradleproject2.InvoicItem
+gradleproject2/Invoice.java
+ gradleproject2.Invoice
+gradleproject2/Main.java
+ gradleproject2.Main
+gradleproject2/NewJFrame.java
+ gradleproject2.NewJFrame
+ gradleproject2.NewJFrame$1
+ gradleproject2.NewJFrame$10
+ gradleproject2.NewJFrame$2
+ gradleproject2.NewJFrame$3
+ gradleproject2.NewJFrame$4
+ gradleproject2.NewJFrame$5
+ gradleproject2.NewJFrame$6
+ gradleproject2.NewJFrame$7
+ gradleproject2.NewJFrame$8
+ gradleproject2.NewJFrame$9
